@@ -79,23 +79,23 @@ This troubleshooting process helped reinforce how PowerShell handles commands ve
 
 ### Creating Files and Evidence
 
-![Creating Files](Screenshot%202026-06-19%20182714.png)
+![Creating Files](creating-files.png)
 
 ### Troubleshooting PowerShell Errors
 
-![PowerShell Errors](Screenshot%202026-06-19%20182923.png)
+![PowerShell Errors](powershell-errors.png)
 
 ### Reviewing Investigation Notes
 
-![Investigation Notes](Screenshot%202026-06-19%20183229.png)
+![Investigation Notes](investigation-notes.png)
 
 ### Creating Incident Reports
 
-![Incident Reports](Screenshot%202026-06-19%20183840.png)
+![Incident Reports](incident-reports.png)
 
 ### Final Investigation Findings
 
-![Final Findings](Screenshot%202026-06-19%20184102.png)
+![Final Findings](final-findings.png)
 
 ## Author
 
