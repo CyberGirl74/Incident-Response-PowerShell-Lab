@@ -51,6 +51,30 @@ This lab reinforced several important cybersecurity concepts:
 - PowerShell can be used to organize investigations and evidence
 - Troubleshooting errors is a normal part of learning technical skills
 
+### Errors Encountered
+
+During this lab I attempted to open files by typing:
+
+evidence.txt
+notes.txt
+suspicious.log
+
+PowerShell returned CommandNotFound errors because it interpreted the filenames as commands.
+
+### Resolution
+
+I learned to use:
+
+Get-Content filename.txt
+
+to read file contents and
+
+notepad filename.txt
+
+to edit files.
+
+This troubleshooting process helped reinforce how PowerShell handles commands versus files.
+
 ## Author
 
 Shauna "Storm" Davis
