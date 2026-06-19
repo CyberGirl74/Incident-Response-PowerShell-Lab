@@ -30,7 +30,7 @@ cat incident1.txt
 
 ## Investigation Scenario
 
-During a Wireshark network traffic investigation, unusual mDNS broadcasts were observed originating from an LG Smart TV on the local network.
+During a Wireshark network traffic investigation, unusual mDNS broadcasts were observed originating from my LG Smart TV on the local network.
 
 The device repeatedly advertised AirPlay services and broadcast information identifying its location as the living room. This activity was documented as part of a simulated incident response investigation.
 
