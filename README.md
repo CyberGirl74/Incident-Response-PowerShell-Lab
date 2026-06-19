@@ -75,6 +75,28 @@ to edit files.
 
 This troubleshooting process helped reinforce how PowerShell handles commands versus files.
 
+## Screenshots
+
+### Creating Files and Evidence
+
+![Creating Files](Screenshot%202026-06-19%20182714.png)
+
+### Troubleshooting PowerShell Errors
+
+![PowerShell Errors](Screenshot%202026-06-19%20182923.png)
+
+### Reviewing Investigation Notes
+
+![Investigation Notes](Screenshot%202026-06-19%20183229.png)
+
+### Creating Incident Reports
+
+![Incident Reports](Screenshot%202026-06-19%20183840.png)
+
+### Final Investigation Findings
+
+![Final Findings](Screenshot%202026-06-19%20184102.png)
+
 ## Author
 
 Shauna "Storm" Davis
